@@ -20,3 +20,8 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Peluquer√
 ## Imagenes del proyecto
 
 <img src="https://github.com/elavincho/LoginJavaSwing/blob/master/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/>                      <img src="https://github.com/elavincho/LoginJavaSwing/blob/master/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/LoginJavaSwing/blob/master/img/Captura_de_pantalla_3.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/LoginJavaSwing/blob/master/img/Captura_de_pantalla_4.png" width="200" height="200" alt="img"/>
+
+
+## Video del proyecto
+
+[![Video tutorial](https://github.com/elavincho/LoginJavaSwing/blob/master/img/img_video.png)](https://youtu.be/ImkbP7p9Jec)
