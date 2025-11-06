@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/8DtjJX91/img-video.png" width="100" height="75" alt="calculadora"/>
+
 # Aplicación de Escritorio para un **Login**
 
 Este proyecto es un sistema para un **Login** utilizando Java Swing con una mejora significativa en el diseño. 
