@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8DtjJX91/img-video.png" width="100" height="75" alt="login"/>
+<img src="https://i.ibb.co/8DtjJX91/img-video.png" width="100" height="75" alt="ilib"/>
 
 # Aplicación de Escritorio para un **Login**
 
